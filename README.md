@@ -1,9 +1,9 @@
 # 📚 e-learning-purchase-database
-MySQL-based E-learning Purchase Database project for analyzing learner purchases, course performance, revenue, and category-wise insights
+MySQL-based e-learning Purchase Database project for analyzing learner purchases, course performance, revenue, and category-wise insights
 
 ## 📌 Project Overview
 
-This project focuses on analyzing **E-learning platform purchase data using MySQL** to derive meaningful business insights from learner, course, and purchase information.
+This project focuses on analyzing **e-learning platform purchase data using MySQL** to derive meaningful business insights from learner, course, and purchase information.
 
 The database consists of three main tables — **learners, courses, and purchases** — which are connected using primary and foreign key relationships. SQL queries are used to analyze learner spending, course popularity, category performance, and purchasing behavior.
 
@@ -310,7 +310,7 @@ E-Learning-Purchase-Database/
 
 # ✅ Conclusion
 
-This project demonstrates how **MySQL can transform E-learning purchase data into meaningful business insights**.
+This project demonstrates how **MySQL can transform e-learning purchase data into meaningful business insights**.
 
 By applying joins, aggregations, filtering, subqueries, CTEs, CASE expressions, NULL handling, and views, the analysis provides insights into **learner spending, course popularity, category performance, and purchasing behavior**.
 
@@ -324,5 +324,16 @@ The findings can help management focus marketing efforts on top-performing categ
 
 **Aspiring Data Analyst**
 
-**Skills:** MySQL | SQL | Python | Excel | Power BI
+**Skills:** MySQL | SQL | Database Design | Data Management
+
+## 📄 License
+
+This project is created for educational and assignment purposes only.
+
+## 🙏 Acknowledgments
+
+I would like to thank:
+
+- **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
+- **MySQL Documentation** for valuable references and support in understanding SQL commands, database design, and implementation.
 
